@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Malbec Argentino",
+        "category": "Reservado",
+        "price": 129.99,
+        "color": "tinto"
+    },
+    {
+        "id": 2,
+        "name": "cabernet Sauvignon Chileno",
+        "category": "Reserva",
+        "price": 199.99,
+        "color": "tinto"
+    },
+    {
+        "id": 3,
+        "name": "Rosé da Serra",
+        "category": "Reserva",
+        "price": 89.99,
+        "color": "rose"
+    },
+    {
+        "id": 4,
+        "name": "cabert",
+        "category": "Reserva",
+        "price": 49.99,
+        "color": "branco"
+    },
+    {
+        "id": 5,
+        "name": "pata negra",
+        "category": "gran reserva",
+        "price": 99.99,
+        "color": "tinto"
+    },
+    {
+        "id": 6,
+        "name": "salton rosé",
+        "category": "Reserva",
+        "price": 149.99,
+        "color": "rose"
+    },
+    {
+        "id": 7,
+        "name": "Salto moscatel",
+        "category": "espulmante",
+        "price": 69.99,
+        "color": "branco"
+    },
+    {
+        "id": 8,
+        "name": "Vinho Branco",
+        "category": "Reserva",
+        "price": 39.99,
+        "color": "branco"
+    },
+    {
+        "id": 9,
+        "name": "Tinto chileno",
+        "category": "gran reserva",
+        "price": 159.99,
+        "color": "tinto"
+    },
+    {
+        "id": 10,
+        "name": "Goes",
+        "category": "espulmante"    ,
+        "price": 89.99,
+        "color": "branco"
+    }
+]
