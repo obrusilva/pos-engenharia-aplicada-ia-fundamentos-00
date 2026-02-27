@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Counter-Strike: Global Offensive",
+        "genre": "Action",
+        "price": 59.99,
+        "platform": "PC"
+    },
+    {
+        "id": 2,
+        "name": "Gran Turismo 7",
+        "genre": "Racing",
+        "price": 69.99,
+        "platform": "PS5"
+    },
+    {
+        "id": 3,
+        "name": "Mario Bros. Odyssey",
+        "genre": "Adventure",
+        "price": 49.99,
+        "platform": "Switch"
+    },
+    {
+        "id": 4,
+        "name": "Fifa",
+        "genre": "Sports",
+        "price": 39.99,
+        "platform": "Xbox"
+    },
+    {
+        "id": 5,
+        "name": "Final Fantasy XIV",
+        "genre": "RPG",
+        "price": 79.99,
+        "platform": "PC"
+    },
+    {
+        "id": 6,
+        "name": "Mario Kart 8 Deluxe",
+        "genre": "Racing",
+        "price": 14.99,
+        "platform": "Switch"
+    },
+    {
+        "id": 7,
+        "name": "Rally Horizon",
+        "genre": "Racing",
+        "price": 49.99,
+        "platform": "PS5"
+    },
+    {
+        "id": 8,
+        "name": "Nightfall Heist",
+        "genre": "Action",
+        "price": 59.99,
+        "platform": "Xbox"
+    },
+    {
+        "id": 9,
+        "name": "Echoes of Time",
+        "genre": "Adventure",
+        "price": 44.99,
+        "platform": "PC"
+    },
+    {
+        "id": 10,
+        "name": "Skyline Builder",
+        "genre": "Simulation",
+        "price": 24.99,
+        "platform": "PC"
+    },
+    {
+        "id":11,
+        "name": "zelda breath of the wild",
+        "genre": "Adventure",
+        "price": 49.99,
+        "platform": "Switch"
+    },
+    {
+        "id":12,
+        "name": "forza horizon 5",
+        "genre": "Racing",
+        "price": 49.99,
+        "platform": "Xbox"
+    }
+]
